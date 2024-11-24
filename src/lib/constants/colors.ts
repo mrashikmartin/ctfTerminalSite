@@ -1,0 +1,1 @@
+export const kRichBlack = "#001011"
